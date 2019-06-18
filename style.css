@@ -1,0 +1,48 @@
+
+
+* {
+			margin: 0;
+			padding: 0;
+		}
+
+
+
+
+
+
+body{
+	margin: 0;
+	padding:0;
+
+}
+
+
+.first-part{
+	background-image: url('images/1.jpg');
+	
+}
+.second-part{
+	background-image: url('images/2.jpg');
+	
+}
+.third-part{
+	background-image: url('images/3.jpg');
+	
+}
+.fourth-part{
+	background-image: url('images/4.jpg');
+	
+}
+.fifth-part{
+	background-image: url('images/1.jpg');
+	
+}
+.parallax {
+			background-attachment: fixed;
+			background-position: 70% 50%;
+			background-repeat: no-repeat;
+			height: 450px;
+			position: relative;
+		}
+
+
